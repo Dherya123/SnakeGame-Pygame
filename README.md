@@ -7,8 +7,6 @@ A classic Snake Game developed using Python and Pygame. Control the snake, eat f
 - Smooth snake movement
 - Food spawning system
 - Collision detection
-- Game Over screen
-- Restart functionality
 - Simple and clean user interface
 
 ## 🛠️ Technologies Used
